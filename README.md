@@ -1,4 +1,4 @@
-# Spotlight-like Theme
+# Spotlight-like Alfred Theme
 A theme that looks like macOS Spotlight 
 
 Light
