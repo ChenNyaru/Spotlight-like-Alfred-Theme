@@ -1,5 +1,5 @@
 # Spotlight-like Alfred Theme
-The Alfred theme that looks like macOS Spotlight 
+An Alfred theme that looks like macOS Spotlight 
 
 ## Light Version
 
