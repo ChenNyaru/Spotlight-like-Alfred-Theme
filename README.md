@@ -1,5 +1,6 @@
 # Spotlight-like Alfred Theme
 An Alfred theme that looks like macOS Spotlight.
+Spotlight聚焦搜索风格的Alfred主题。
 
 ## Light Version
 
